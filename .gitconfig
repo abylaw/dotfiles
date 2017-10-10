@@ -1,0 +1,11 @@
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	unstage = reset HEAD --
+[user]
+	name = Andrea Law
+	email = abylaw@gmail.com
+[push]
+	default = current
